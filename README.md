@@ -8,7 +8,11 @@ V2EX的RN版本
 
 ## 页面
 
-![](https://raw.githubusercontent.com/Mrxyx/MarkPhotos/master/Res/2017071101.gif)
+![](https://raw.githubusercontent.com/Mrxyx/MarkPhotos/master/Res/2017071201.gif)
+
+![](https://raw.githubusercontent.com/Mrxyx/MarkPhotos/master/Res/2017071202.gif)
+
+![](https://raw.githubusercontent.com/Mrxyx/MarkPhotos/master/Res/2017071203.gif)
 
 ## ToDo 
 * redux重构
